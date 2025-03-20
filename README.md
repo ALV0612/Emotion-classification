@@ -25,8 +25,7 @@ Below are the assumed performance metrics of the three models on the test set:
 
 | Model                  | Accuracy      | F1-Score (Average) | Precision (Average) | Recall (Average) |
 |-------------------------|---------------|---------------------|---------------------|------------------|
-| XGBoost               | 81%           | 0.79                | 0.81                | 0.78             |
-| Convolutional Neural Network (CNN) | 87%        | 0.85                | 0.86                | 0.84             |
+| XGBoost               | 81%           | 0.8                | 0.82                | 0.8             |
 | ExtraTrees          | 73%           | 0.7               | 0.70                | 0.73             |
 
 
