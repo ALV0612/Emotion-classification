@@ -1,0 +1,2 @@
+vit-model.pt filter=lfs diff=lfs merge=lfs -text
+dataset/icml_face_data.csv filter=lfs diff=lfs merge=lfs -text
